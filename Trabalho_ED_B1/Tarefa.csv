@@ -1,0 +1,99 @@
+Critico,10,Corrigir bug de login,Leandro Almeida,2023-10-26
+Importante,5,Implementar funcionalidade de carrinho,Lais Sitolino,2023-10-27
+Melhoria,2,Refatorar codigo de autenticacao,Gui Sales,2023-10-28
+Critico,15,Corrigir falha de seguranca,Caio Furlan,2023-10-29
+Importante,8,Testar integracao com API de pagamento,Ana Ligia,2023-10-30
+Melhoria,3,Otimizar desempenho da pagina inicial,Igor Marcelino,2023-10-31
+Critico,12,Corrigir erro de banco de dados,Matheus Ortiz,2023-11-01
+Importante,7,Revisar codigo da funcionalidade de busca,Bruno Gomes,2023-11-02
+Melhoria,4,Documentar API de produtos,Isabela Ribeiro,2023-11-03
+Critico,20,Corrigir problema de infraestrutura,Rafael Martins,2023-11-04
+Importante,9,Implementar funcionalidade de favoritos,Juliana Almeida,2023-11-05
+Melhoria,5,Otimizar consultas ao banco de dados,Gustavo Barbosa,2023-11-06
+Critico,18,Corrigir bug de renderizacao,Beatriz Castro,2023-11-07
+Importante,6,Testar funcionalidade de checkout,Leonardo Dias,2023-11-08
+Melhoria,2,Atualizar documentacao de instalacao,Camila Ferreira,2023-11-09
+Critico,11,Resolver conflito de dependencias,Fernanda Lima,2023-11-10
+Importante,4,Adicionar logs de erro,Roberto Alves,2023-11-11
+Melhoria,1,Melhorar mensagens de usuario,Patricia Nunes,2023-11-12
+Critico,14,Corrigir timeout na API,Daniel Ribeiro,2023-11-13
+Importante,3,Atualizar SDK de pagamento,Amanda Castro,2023-11-14
+Melhoria,2,Padronizar nomes de variaveis,Thiago Oliveira,2023-11-15
+Critico,16,Resolver vazamento de memoria,Larissa Martins,2023-11-16
+Importante,5,Implementar cache de consultas,Vinicius Souza,2023-11-17
+Melhoria,3,Adicionar tooltips de ajuda,Sofia Pereira,2023-11-18
+Critico,13,Corrigir upload de arquivos grandes,Eduardo Santos,2023-11-19
+Importante,6,Testar compatibilidade mobile,Renata Gomes,2023-11-20
+Melhoria,4,Traduzir interface para ingles,Marcos Dias,2023-11-21
+Critico,19,Corrigir falha na criptografia,Carolina Ferreira,2023-11-22
+Importante,7,Adicionar validacao de formularios,Guilherme Barbosa,2023-11-23
+Melhoria,2,Simplificar fluxo de cadastro,Luiza Castro,2023-11-24
+Critico,17,Resolver lentidao no servidor,Rodrigo Lima,2023-11-25
+Importante,8,Implementar autenticacao em 2 fatores,Tatiane Alves,2023-11-26
+Melhoria,3,Adicionar dark mode,Joao Nunes,2023-11-27
+Critico,21,Corrigir sincronizacao de dados,Andre Ribeiro,2023-11-28
+Importante,9,Atualizar bibliotecas de seguranca,Vanessa Castro,2023-11-29
+Melhoria,5,Melhorar responsividade do layout,Felipe Oliveira,2023-11-30
+Critico,22,Resolver conflitos de merge,Leticia Martins,2023-12-01
+Importante,10,Implementar exportacao de relatorios,Rafael Souza,2023-12-02
+Melhoria,4,Adicionar atalhos de teclado,Helena Pereira,2023-12-03
+Critico,23,Corrigir erro na geracao de PDF,Gabriel Santos,2023-12-04
+Importante,11,Testar carga maxima do sistema,Laura Gomes,2023-12-05
+Melhoria,6,Documentar endpoints da API,Matheus Dias,2023-12-06
+Critico,24,Resolver problema de timezone,Isabel Ferreira,2023-12-07
+Importante,12,Adicionar suporte a multiplos idiomas,Paulo Barbosa,2023-12-08
+Melhoria,7,Otimizar imagens do site,Ana Castro,2023-12-09
+Critico,25,Corrigir falha no envio de e-mails,Diego Lima,2023-12-10
+Importante,13,Implementar busca por voz,Monica Alves,2023-12-11
+Melhoria,8,Adicionar animacoes de loading,Carlos Nunes,2023-12-12
+Critico,26,Resolver problema de certificado SSL,Juliana Ribeiro,2023-12-13
+Importante,14,Atualizar poli­tica de privacidade,Marcelo Castro,2023-12-14
+Melhoria,9,Simplificar menu principal,Claudia Oliveira,2023-12-15
+Critico,27,Corrigir erro na API de geolocalizacao,Ricardo Martins,2023-12-16
+Importante,15,Implementar pagina de resultados,Fernando Souza,2023-12-17
+Melhoria,10,Adicionar feedback visual ao usuario,Aline Pereira,2023-12-18
+Critico,28,Resolver bug no calculo de impostos,Roberta Santos,2023-12-19
+Importante,16,Testar acessibilidade,Leandro Gomes,2023-12-20
+Melhoria,11,Documentar fluxo de trabalho,Tania Dias,2023-12-21
+Critico,29,Corrigir falha na recuperacao de senha,Gustavo Ferreira,2023-12-22
+Importante,17,Adicionar captcha em formularios,Sandra Barbosa,2023-12-23
+Melhoria,12,Melhorar legibilidade do texto,Bruno Castro,2023-12-24
+Critico,30,Resolver problema de concorrencia,Alexandre Lima,2023-12-25
+Importante,18,Implementar historico de alteracoes,Debora Alves,2023-12-26
+Melhoria,13,Adicionar icones intuitivos,Rodrigo Nunes,2023-12-27
+Critico,31,Corrigir erro na importacao de dados,Vivian Ribeiro,2023-12-28
+Importante,19,Atualizar termos de uso,Caio Castro,2023-12-29
+Melhoria,14,Otimizar codigo CSS,Luciana Oliveira,2023-12-30
+Critico,32,Resolver conflito de versoes,Andre Martins,2023-12-31
+Importante,20,Implementar backup automatico,Elaine Souza,2024-01-01
+Melhoria,15,Adicionar tutorial interativo,Priscila Pereira,2024-01-02
+Critico,33,Corrigir erro na validacao de CPF,Renato Santos,2024-01-03
+Importante,21,Testar integracao com redes sociais,Patri­cia Gomes,2024-01-04
+Melhoria,16,Documentar regras de negocio,Felipe Dias,2024-01-05
+Critico,34,Resolver problema de serializacao,Marina Ferreira,2024-01-06
+Importante,22,Adicionar suporte a WebP,Henrique Barbosa,2024-01-07
+Melhoria,17,Melhorar mensagens de erro,Luana Castro,2024-01-08
+Critico,35,Corrigir falha na compressao de dados,Gabriel Lima,2024-01-09
+Importante,23,Implementar carregamento lazy,Carolina Alves,2024-01-10
+Melhoria,18,Adicionar breadcrumbs,Rafael Nunes,2024-01-11
+Critico,36,Resolver bug no redirecionamento,Beatriz Ribeiro,2024-01-12
+Importante,24,Atualizar FAQ do produto,Thiago Castro,2024-01-13
+Melhoria,19,Otimizar consultas SQL,Vanessa Oliveira,2024-01-14
+Critico,37,Corrigir erro na geracao de token,Leonardo Martins,2024-01-15
+Importante,25,Implementar zoom em imagens,Camila Souza,2024-01-16
+Melhoria,20,Adicionar validacao de e-mail,Daniel Pereira,2024-01-17
+Critico,38,Resolver problema de codificacao,Larissa Santos,2024-01-18
+Importante,26,Testar em navegadores antigos,Gustavo Gomes,2024-01-19
+Melhoria,21,Documentar configuracoes de ambiente,Tatiana Dias,2024-01-20
+Critico,39,Corrigir falha na atualizacao em lote,Rodrigo Ferreira,2024-01-21
+Importante,27,Adicionar suporte a SVG,Marcela Barbosa,2024-01-22
+Melhoria,22,Melhorar tempo de inicializacao,Fernanda Castro,2024-01-23
+Critico,40,Resolver conflito de permissoes,Roberto Lima,2024-01-24
+Importante,28,Implementar ordenacao personalizada,Ana Alves,2024-01-25
+Melhoria,23,Adicionar confirmacao para acoes,Josue Nunes,2024-01-26
+Critico,41,Corrigir erro na conversao de moeda,Maria Ribeiro,2024-01-27
+Importante,29,Atualizar biblioteca de graficos,Pedro Castro,2024-01-28
+Melhoria,24,Otimizar consumo de memoria,Carla Oliveira,2024-01-29
+Critico,42,Resolver problema de sincronia,Eduardo Martins,2024-01-30
+Importante,30,Implementar drag and drop,Sofia Souza,2024-01-31
+Melhoria,25,Adicionar busca por tags,Luiz Pereira,2024-02-01
